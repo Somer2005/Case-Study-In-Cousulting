@@ -1,1 +1,6 @@
 # Case-Study-In-Cousulting
+怎么说呢，这其实是一个Consulting这个方向的实习面试题目集。
+
+我发现Consulting里面需要的东西本科生未必会，于是建立起这样一个案例库，这个里面聚集了许多的Consulting相关的面试常见问题，方便后续想要往Consulting转的人有个东西可以看。
+
+当然，感觉Consulting这方向想去的人应该不会越来越多只会越来越少（笑
